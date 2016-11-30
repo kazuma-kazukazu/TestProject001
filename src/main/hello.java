@@ -9,6 +9,8 @@ public class HelloWorld1 {
         this.subfunc000(20);	//add 20161130 testbranch010
         this.subfuncAAA(20);
 
+        this.subfuncBase(20);	//add 20161130 baseを呼ぶぜー！
+
     }
 
     // 呼び出し関数その１		//add 20161130 testbranch010
