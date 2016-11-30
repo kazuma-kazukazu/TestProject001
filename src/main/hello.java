@@ -17,6 +17,7 @@ public class HelloWorld1 {
     public int subfunc000(int no){
         System.out.println("call subfunction1");
         System.out.println("call subfunction1-1-1");
+        System.out.println("call subfunction1-1-2");	//俺が修正したかったのはこっちだったぜ branch051
     }
 
     // 呼び出し関数その２
