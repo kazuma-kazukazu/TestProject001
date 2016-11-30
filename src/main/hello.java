@@ -14,6 +14,7 @@ public class HelloWorld1 {
     // 呼び出し関数その１		//add 20161130 testbranch010
     public int subfunc000(int no){
         System.out.println("call subfunction1");
+        System.out.println("call subfunction1-1-1");
     }
 
     // 呼び出し関数その２
