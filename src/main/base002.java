@@ -12,6 +12,7 @@ public class BaseClass2 {
     // 呼び出し関数その１
     public int subfunc(int no){
         System.out.println("call subfunction1");
+        System.out.println("call subfunction043");	//とりあえずバグ修正しました
     }
 
     public int subfunc2(int no){
