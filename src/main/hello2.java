@@ -7,6 +7,7 @@ public class HelloWorld2 {
 
         this.subfunc(10);
         this.subfunc2(100);
+        this.subfunc3(1000);	//とりあえず追加。
     }
 
     // 呼び出し関数その１
@@ -18,4 +19,7 @@ public class HelloWorld2 {
         System.out.println("call subfunction2");
     }
 
+    public int subfunc3(int no){	//とりあえず追加。
+        System.out.println("call subfunction3");
+    }
 }
