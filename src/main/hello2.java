@@ -21,5 +21,6 @@ public class HelloWorld2 {
 
     public int subfunc3(int no){	//とりあえず追加。
         System.out.println("call subfunction3");
+        System.out.println("call subfunction3-2");//なんとベースのバグがあったので修正。
     }
 }
