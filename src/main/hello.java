@@ -19,6 +19,7 @@ public class HelloWorld1 {
     // 呼び出し関数その２
     public int subfunc111(int no){
         System.out.println("call subfunction 111");
+        System.out.println("call subfunction 222");//ここを修正しました。コンフリクト無しになる前提
     }
 
     // 呼び出し関数その２
